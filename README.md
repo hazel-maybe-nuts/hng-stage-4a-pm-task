@@ -40,7 +40,7 @@ The feature set is designed to move the user from passive data collection to act
 
 ![DayMap User Flow](./DayMap%20Flow%20Diagram.png)
 
-[See the user flow on Figma](https://www.figma.com/board/0QRhdERUL8AelXthomXL5r/DayMap-Flow-Diagram?node-id=1-207&t=0nfl59ofqNKYQxsn-1)
+[See user flow on figma](https://www.figma.com/board/0QRhdERUL8AelXthomXL5r/DayMap-Flow-Diagram?node-id=1-207&t=0nfl59ofqNKYQxsn-1)
 
 ## ​User Flow (In Words)
 
