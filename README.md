@@ -36,6 +36,16 @@ The feature set is designed to move the user from passive data collection to act
 * **Feature:** Goal Setting, Alerts, and Reporting
 * **Justification:** Data alone is not useful. This feature bridges the gap between insight and action. A user can set a goal, such as "Spend less than 1 hour on social media," and DayMap can provide alerts or weekly reports on their progress.
 
+## Wireframe
+
+![Page 1](./Discovery%20Dashboard.png)
+![Page 2](./Empty%20State%20Dashboard.png)
+![Page 3](./Interactive%20Demo.png)
+![Page 4](./Landing%20&%20Choice.png)
+![Page 5](./Sign-Up.png)
+
+[See user flow on figma](https://app.visily.ai/projects/908944b8-010a-4484-9bf9-a6dc68440e5e/boards/2320483)
+
 ## ​User Flow Diagram
 
 ![DayMap User Flow](./DayMap%20Flow%20Diagram.png)
