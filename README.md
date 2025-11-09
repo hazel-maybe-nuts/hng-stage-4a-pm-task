@@ -45,7 +45,7 @@ The feature set is designed to move the user from passive data collection to act
 ![Page 5](./Configuration%20Wizard.png)
 ![Page 6](./Discovery%20Dashboard.png)
 
-[See user flow on figma](https://app.visily.ai/projects/908944b8-010a-4484-9bf9-a6dc68440e5e/boards/2320483)
+[See wireframes on Visily](https://app.visily.ai/projects/908944b8-010a-4484-9bf9-a6dc68440e5e/boards/2320483)
 
 ## ​User Flow Diagram
 
