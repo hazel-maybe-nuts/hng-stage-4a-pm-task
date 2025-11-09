@@ -38,11 +38,12 @@ The feature set is designed to move the user from passive data collection to act
 
 ## Wireframe
 
-![Page 1](./Discovery%20Dashboard.png)
-![Page 2](./Empty%20State%20Dashboard.png)
-![Page 3](./Interactive%20Demo.png)
-![Page 4](./Landing%20&%20Choice.png)
-![Page 5](./Sign-Up.png)
+![Page 1](./Landing%20&%20Choice.png)
+![Page 2](./Interactive%20Demo.png)
+![Page 3](./Sign-Up.png)
+![Page 4](./Empty%20State%20Dashboard.png)
+![Page 5](./Configuration%20Wizard.png)
+![Page 6](./Discovery%20Dashboard.png)
 
 [See user flow on figma](https://app.visily.ai/projects/908944b8-010a-4484-9bf9-a6dc68440e5e/boards/2320483)
 
